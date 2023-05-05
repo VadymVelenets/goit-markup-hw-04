@@ -340,7 +340,7 @@ button {
 }
 .social-list-link:hover,
 .social-list-link:focus {
-  background-color: #404bbf;
+  background-color: #31d0aa;
 }
 /* Navigation section */
 .navig {
@@ -459,6 +459,7 @@ button {
 }
 .customers-item {
   height: 88px;
+  width: calc((100% - 120px) / 6);
 }
 .customers-link {
   width: 100%;
