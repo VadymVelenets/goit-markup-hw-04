@@ -233,9 +233,9 @@ button {
 .icon-qualities-svg {
 }
 .social-list-icon {
-  width: 16px;
-  height: 16px;
   fill: #f4f4fd;
+  width: 40px;
+  height: 40px;
 }
 .customers-icon {
   fill: currentColor;
@@ -351,7 +351,9 @@ button {
 .social-list-link-team:focus {
   background-color: #404bbf;
 }
-.social-list-link:hover,
+.social-list-link:hover {
+  background-color: #31d0aa;
+}
 .social-list-link:focus {
   background-color: #31d0aa;
 }
